@@ -65,7 +65,7 @@ Response:
 
 ## 🎬 Demo
 
-Try it without signup at [Hugging Face Space →](https://huggingface.co/spaces/melyx/idea-to-post) (rate-limited, watermarked).
+Try it without signup at [Hugging Face Space →](https://huggingface.co/spaces/melyxdev/idea-to-post) (rate-limited, watermarked).
 
 ---
 
